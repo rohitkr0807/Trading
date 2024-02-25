@@ -1,0 +1,8 @@
+Strategy 1
+
+If a company is paying more than 5% Dividend, then we will use moving average of 200 days strategy to buy the stock.
+If stock is below 20% of 200 days moving average, then we will buy the stock and sell the stock at same level, means 20% of 200 days moving average.
+If the stock is further low by 10%, then we will buy again.
+
+
+

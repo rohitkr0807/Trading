@@ -1,0 +1,107 @@
+Financial Analysis of the Company.
+- The things that are not important, we should leave that part. important things should be considered.
+- Time Management is very important.
+- The financial analysis part is also very important.
+- 
+Market Capitalization - Whole Companies
+Multi bagger stock can be identified by only Market capitalization.
+Multi bagger company is the company whose market capitalization is small and has brand value.
+
+Below these parameters are per share value.
+1. Current Price/Current Value/Market Value-
+Current Value, share value
+
+2. Book Value-
+Book Value dependent on Share capital and Reserve.
+Whole company / Equity = share capital + Reserve
+(Share capital + Reserve)/Total number of shares = Book Value
+
+If share price is less than book value, then it is a good thing, but it is more than it might not be bad thing.
+
+
+3. Face Value-
+Share Capital/Total number of shares = Face Value
+Face doesn't have any importance.
+
+The whole sugar industry will turn into profitable in next 5-10 years.
+(Bajaj Hindustan Sugar, Balrampur Chini, Dhampur Sugar, Dwarikesh Sugar, Triveni Engineering, Ugar Sugar, Mawana Sugar, Avadh Sugar, Dalmia Sugar, EID Parry, Andhra Sugar, Bannari Amman Sugar, DCM Shriram, Dharani Sugar, Dwarikesh Sugar, KCP Sugar, Magadh Sugar, Mawana Sugar, Ponni Sugars, Rana Sugars, Riga Sugar, Sakthi Sugars, Simbhaoli Sugar, Thiru Arooran, Uttam Sugar, Vishnu Sugar, Dharani Sugar, Dwarikesh Sugar, KCP Sugar, Magadh Sugar, Mawana Sugar, Ponni Sugars, Rana Sugars, Riga Sugar, Sakthi Sugars, Simbhaoli Sugar, Thiru Arooran, Uttam Sugar, Vishnu Sugar, Dharani Sugar, Dwarikesh Sugar, KCP Sugar, Magadh Sugar, Mawana Sugar, Ponni Sugars, Rana Sugars, Riga Sugar, Sakthi Sugars, Simbhaoli Sugar, Thiru Arooran, Uttam Sugar, Vishnu Sugar, Dharani Sugar, Dwarikesh Sugar, KCP Sugar, Magadh Sugar, Mawana Sugar, Ponni Sugars, Rana Sugars, Riga Sugar, Sakthi Sugars, Simbhaoli Sugar, Thiru Arooran, Uttam Sugar, Vishnu Sugar, Dharani Sugar, Dwarikesh Sugar, KCP Sugar, Magadh Sugar, Mawana Sugar, Ponni Sugars, Rana Sugars, Riga Sugar, Sakthi Sugars, Simbhaoli Sugar, Thiru Arooran, Uttam Sugar, Vishnu Sugar, Dharani Sugar, Dwarikesh Sugar, KCP Sugar, Magadh Sugar, Mawana Sugar, Ponni Sugars, Rana Sugars, Riga Sugar, Sakthi Sugars, Simbhaoli Sugar, Thiru Arooran, Uttam Sugar, Vishnu Sugar, Dharani Sugar, Dwarikesh Sugar, KCP Sugar, Magadh Sugar, Mawana Sugar, Ponni Sugars, Rana Sugars, Riga Sugar, Sakthi Sugars, Simb)
+
+
+4. Price Earning Share (P/E)-
+Current Value/Earning per share = P/E
+Price/Earning = Market Cap/ Net Profit
+Current Price/Net Profit = P/E
+P/E ration will be time(in years) to recover the investment, but profit increases every years, so time will decrease.
+
+If you want to invest in government company then P/E ratio is important, but for private company, P/E ratio is not important profit is important.
+If P/E ratio is less than 10, then it is a good company for private company, if it is more than 10, then it is not a bad company.
+
+5. Fixed Asset:-
+Operational capacity of the company.
+
+6. CWIP (Capital Work in Progress)-
+The company is expanding its capacity.
+
+7. Dividend Yield:-
+Dividend per share/Current Value = Dividend Yield
+If Dividend Yield is more than 1.5%, then it is a good company and it is large company.
+
+PFC is a good company, but it is not a large company, and give Dividend too much.
+If the Dividend paying company is below more than 20% moving average of 200 days, then it is the best time to buy.
+
+If company is 20% down for moving average of 200 days, then it is the best time to buy, and sell at the same time.
+If it more down may be 30% down, then we will add 3% more trade.
+This is also the game of operator.
+
+8. Return on Capital Employed (ROCE)-
+We will not use in banking and NBFC company.
+If ROCE is more than 30% then it is a great company, then it is guaranteed that it will touch 52 weeks high again very soon.
+
+if ROCE is between 15-30%, then it is a good company.
+
+9. Return on Equity (ROE)-
+We will use in banking and NBFC company.
+If ROE is more than 10%, then it is a good company. We will trade in these companies.
+
+10. If retail holding of any company is more than 30%, then avoid that company for investment.
+
+11. Pleadged Percentage-
+Pleadged percentage is how much Promoters have pledged their shares to take loan.
+
+If Pleadged percentage is more than 10%, then avoid that company for investment.
+
+12. Debt to Equity Ratio-
+For Banking and NBFC this rule is not applicable.
+If Debt to Equity Ration is less than 25%, then we will trade otherwise we will not trade.
+
+13. Quarterly Results and Annual Results-
+Both are same, but Quarterly results should be compared with last year's same quarter results.
+Business is seasonal, so we should compare with last year's same quarter results.
+
+Other Income and income tax can be manipulated, so we should not consider these things.
+Last 10 years track record is very important, rather than Quarterly results.
+
+14. Depreciation-
+These all parameters are linked Depreciation, Fixed Asset, CWIP.
+
+Expenses - are the things that are used and gone.
+Fixed Asset - are the things that are used and not gone.
+
+Depreciation,
+Fixed Asset - Expenses that are Operational.
+CWIP(Construction work in Progress) - Expenses that are not Operational will be used in production in future and will be moved to Fixed assets.
+
+15. Borrowings-
+Borrowings should be less in each quarter or year.
+Reserve should increase in each quarter or year.
+
+16. Cash flow is not important.
+
+17. Documents - Concall
+We should listen to the concall of the company.
+We should read concall of the company.
+
+The whole wirld is divided into 3 parts -
+1. South East Asia
+2. Europe and America
+3. Middle East Country - India

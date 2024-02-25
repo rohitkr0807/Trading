@@ -1,0 +1,21 @@
+We will learn three strategies.
+
+1. Moving average strategies (Only applicable for v40 companies).
+We will use simple moving average strategies.
+In this we will use three strategies - 200 days, 50 days and 20 days moving average strategies.
+We will use 200days - Black
+50days - Red color
+20days - Green color.
+We will use daily candle stick chart.
+There is no stop loss in this category.
+This strategies will be used in V40 Companies.
+
+Buying will happen when the black color is on top means moving average of 200 days is on top.
+Order will be Black on Top, Red in Middle and Green at bottom, and last will be closing price.
+
+Selling will happen in just opposite way.
+Order will be Black at bottom, Red in Middle and Green at top, and top will be closing price.
+
+
+
+

@@ -1,0 +1,9 @@
+v40, v40 next
+
+Condition to select V40 companies:-
+1. The company should be market leader.
+2. The company should be a leader in its industry.
+3. The company should have a strong brand.
+4. The company should have a strong financials.
+5. List will not have government companies.
+6. 

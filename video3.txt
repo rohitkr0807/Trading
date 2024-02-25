@@ -1,0 +1,39 @@
+Swing Trading Strategies
+
+There are 3 strategies:-
+1. V20 Strategy - 
+This strategy is applicable on all 3 groups of stocks. v40, v40next and v200 stocks.
+We will invest 3% in one trade.
+There is no stop loss in this strategy.
+
+There are 4 steps in this strategy:- (We will use daily candle sticks chart)
+1. A bunch of continuous green candles should be formed and change in price should be more than 20%. (Lowest low to highest high should be more than 20%)
+2. Draw horizontal line at the highest high of the bunch of continuous green candles and lowest low of the bunch of continuous green candles.
+3. If it touches the lowest low line then we will buy, and if it touches the highest high line then we will sell.
+4. Please follow the rule strictly, 20% change is must and continuous green candles are must.
+5. If there is one more signal for same before achieving target, then we can again apply the same logic. Maximum 2 trades will be done for one stock.
+These logic will be applicable on two groups of stocks v40 and v40next.
+
+For v200 stocks, we will apply one more logic, extra parameter 200 days moving average.
+Range should be more than 20% and price , lower range should not be above 200 days moving average.
+
+If this is the case, then buyer is very strong without weakness, red candle is nature of weakness, operator must be involved.
+
+
+2. Rob Booker KnoxVille Divergence Strategy -
+This strategy is applicable only on v40 companies.
+We will use daily candle sticks chart.
+There is no stop loss in this strategy.
+We will invest 3% in one trade.
+
+Uptrending line will connect from top of 1 candle to top of another candle, and downtrending line will connect from bottom of 1 candle to bottom of another candle.
+size of the line is not important, only angle is important.
+Starting point is not important, only ending point is important.
+We will average if we get 2 signals for same stock. - Maximum 2 times we will do, 3% and 3% again.
+Buying will happen at the end point of downtrending line. 
+We will only buy at the end of the day, not in the middle of the day.
+We will only check Signals after market hour - After market is closed.
+We will only buy next day in the morning.
+We will sell at end point of Uptrending line.
+All these are operators game.
+
