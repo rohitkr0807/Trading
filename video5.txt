@@ -16,6 +16,8 @@ Order will be Black on Top, Red in Middle and Green at bottom, and last will be 
 Selling will happen in just opposite way.
 Order will be Black at bottom, Red in Middle and Green at top, and top will be closing price.
 
+Whenever get an oppotunity to do average, do that on priority.
+
 
 
 
