@@ -12,11 +12,49 @@ This strategies will be used in V40 Companies.
 
 Buying will happen when the black color is on top means moving average of 200 days is on top.
 Order will be Black on Top, Red in Middle and Green at bottom, and last will be closing price.
+Logic - If this case happens, then it means the short term, mid term and long term traders all are losing money, so this is the time investors
+buy the stock, so we will also buy at this time.
 
 Selling will happen in just opposite way.
 Order will be Black at bottom, Red in Middle and Green at top, and top will be closing price.
+Logic - If this case happens, then it means the short term, mid term and long term traders all are making money, so this is the time to sell the stocks.
 
 Whenever get an oppotunity to do average, do that on priority.
+Never miss the averaging oppotunity.
+
+Tranders and Investor:-
+Investor wait for big companies to drop 20% and then buy and sell after 10-15 yeras later, in this way they make around 15% CAGR.
+Traders analyses the chart, they buy and sell according to the chart, they are divided into three parts:-
+a. Short term traders - They buy and sell within a few days/months.
+b. Medium term traders - They buy and sell within a few months/years.
+c. Long term traders - They buy and sell within a few months/years/decades.
+
+
+2. Reverse Head & Shoulder Strategies (Will be  applicable for v40 and v40 next companies).
+No stop loss in this category.
+We will use daily candle stick chart.
+One trade - 3%, averaging another 3%.
+
+Head will be bigger than the shoulder.
+Neck line should form 180 degree, if it is not forming 180 degree, then it is not a reverse head and shoulder.
+If this is the case, the someone is operating the stock and this is strong operator, he will make profits, so we will also buy this stocks at this point.
+There could be multiple shoulders, or different number of shoulders on either side, but head should be bigger than the shoulder.
+Both side of Shoulder size can vary, both in width and height.
+We will use regular candle stick chart.
+
+To buy this stock - We will analyse the chart according to breakout.
+breakout means - Closing with green candles, and next above green candles. closing above resistance/neck line.
+Buyout - breakout confirmation - Closing above highest level of the breakout candle, and this candle should also be green candles.
+If it 10% down from buying price - we will average it, one more trade.
+This chart pattern should not form at life time high.
+
+3. Cup & Handle Strategies (Will be  applicable for v40 and v40 next companies) - This pattern should not form at life time high.
+Reverse Head & Shoulder, without left shoulder will become cup and handle.
+There can be more than two handle- breakout is must to buy.
+If after buy it falls more than 10%, then we will average it, one more trade(3% more).
+
+If more than one handle is present, then it is more reliable to buy-  This is called complex cup and handle pattern.- More realiable to buy.
+
 
 
 
