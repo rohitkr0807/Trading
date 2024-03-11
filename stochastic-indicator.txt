@@ -1,0 +1,8 @@
+5% Per month Indicator
+
+Change the setting to 
+%k Length: will be 4
+%K Smoothing: will be 3
+%D Smoothing: will be 3
+
+We will buy when the indicator is below 20, sell will be 5% above by setting the GTT order.
